@@ -1,3 +1,6 @@
+Hi Mrs. Mulgrew. I finished reading the fundamentals. I learned that one useful feature from GitHub is ____. This is my first commit and Pull Request. 
+
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
